@@ -1,5 +1,5 @@
 # pyUniverse
-created a simple engine which use the OpenGL libs to simulate our Solar system. You can make with this any things you want. All is you need its a OpenGL libs.
+created a simple engine which use the OpenGL libs to simulate our Solar system. You can make with this any things you want. All is you need its an OpenGL libs.
 
 requirments:
 pip install PyOpenGL PyOpenGL_accelerate numpy
